@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="cap_button">Your Generated Caption:</string>
+    <string name="another">Generate another caption</string>
+    <string name="post">Post to Instagram</string>
+    <string name="copy">Copy to Clipboard</string>
+</resources>
