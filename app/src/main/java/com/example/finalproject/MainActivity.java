@@ -42,10 +42,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
    Bitmap bitmap;
    private final int IMG_REQUEST = 1;
 
-   private static String apiKey = "cbe4ec0015644dc4b1594f756e32bfa7";
-   private static String captionEndpoint = "https://cs125-project.cognitiveservices.azure.com/vision/v2.1/describe";
-   private static String emojiEndpoint = "https://api.ritekit.com/v1/emoji/auto-emojify?text=";
-   private static String clientID = "8ff15b0fde705482a6270cdf2fe7471f8a708df90c0d";
+
    private RequestQueue myQueue;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
